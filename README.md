@@ -1,4 +1,4 @@
-# healthcloud
+# Healthcloud
 
 
 During the 2020 global health crisis, there's been a rise in self-diagnosis via online platforms due to readily available information. However, users often misinterpret symptoms and arrive at inaccurate conclusions from medical blogs or notes.
